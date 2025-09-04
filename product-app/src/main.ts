@@ -3,4 +3,4 @@ import { appConfig } from './app/app.config';
 import { App } from './app/app';
 
 bootstrapApplication(App, appConfig)
-  .catch((err2) => console.error(err2));
+  .catch((err1) => console.error(err1));
